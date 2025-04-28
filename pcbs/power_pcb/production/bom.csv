@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_3, _2, ",,3,,
+"J1, J14, J25",PinHeader_1x04_P2.54mm_Vertical,3,Conn_01x04_Pin,
+"J13, J20, J22, J23, J26, J27, J3",PinHeader_1x02_P2.54mm_Vertical,7,Conn_01x02_Pin,
+J2,PinHeader_2x07_P2.54mm_Vertical,1,Conn_02x07_Odd_Even,
+"J21, J24",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x03_Pin,
+U1,anti_reverse,1,~,
+U2,DRV8871,1,~,
+U4,INA3221_Module,1,~,

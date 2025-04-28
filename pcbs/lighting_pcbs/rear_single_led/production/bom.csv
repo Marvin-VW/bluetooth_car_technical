@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"_2, ",,2,,
+"J1, J3",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x03_Pin,
+"U1, U14, U15, U16, U17, U18, U19, U2, U20, U3, U4, U5, U6, U7",LED_WS2812C-2020,14,WS2812C-2020,
