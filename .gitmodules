@@ -1,0 +1,7 @@
+[submodule "app"]
+    path = app
+    url = https://github.com/Marvin-VW/bluetooth_car_app
+
+[submodule "firmware"]
+    path = firmware
+    url = https://github.com/Marvin-VW/bluetooth_car_cpp

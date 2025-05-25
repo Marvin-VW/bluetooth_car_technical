@@ -1,5 +1,8 @@
 # 3D-Printed ESP32 RC Car – Complete Project Documentation
 
+<img src="images/left_car.jpg" width="400"/>
+<img src="images/top_car_assembled.jpg" width="400"/>
+
 ## Project Overview
 This project consists of a fully 3D-printed RC car based on an ESP32 controller, designed for remote control via a custom-built app.  
 All mechanical parts, electronics (PCBs), and software components are fully self-developed or heavily customized.
@@ -119,6 +122,11 @@ Each lighting board is tailored to fit into designated 3D printed holders.
 
 ---
 
+<img src="images/wiring.png" width="400"/>
+
+Note: Pins not accurate.
+
+---
 
 ## Build and Assembly
 
